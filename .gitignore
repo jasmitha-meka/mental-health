@@ -1,7 +1,5 @@
 .ipynb_checkpoints/
 .DS_Store
-*.csv
-*.xlsx
-data/
-Dataset/
+data/.ipynb_checkpoints
+data/.DS_Store
 
